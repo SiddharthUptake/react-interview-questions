@@ -1,0 +1,12 @@
+Basic:
+
+1. What are hooks in react ?
+2 .Difference between controlled component and uncontrolled components ?
+3. What is JSX ?
+4. What is difference between state and props ?
+5. What is the use of keys in react?
+6. What is HOC in react?
+7. Difference between real DOM and virtual DOM ?
+8. Usememo in react ?
+9. Usecontext in react?
+10. Hoisting ?
