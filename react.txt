@@ -1,0 +1,33 @@
+
+
+
+React :
+
+1. What are hooks in react & explain features of react?
+2 .Difference between controlled component and uncontrolled components ?
+3. What is JSX ?
+4. What is difference between state and props ?
+5. What is the use of keys in react?
+6. What is HOC in react?
+7. Difference between real DOM and virtual DOM ?
+8. Usememo in react ?
+9. Usecontext in react?
+10. what is one way data binding ? or what data flow does react supports ?
+11. what is babel ? 
+12. react is a library or framework ?
+13. what is ES6  and explain it features?
+14. difference between class & functional based component ( and which is better)?
+15. usestate in react ?
+16. prop drilling in react ?
+17. what is react strict mode ?
+18. what is redux or redux toolkit & is redux a cache server ?
+19. what is react router and how it works ?
+20. useEffect in react ?
+21. useref in react ?
+22. usereducer in react ?
+23. what is debugger ?
+24. if there is a complex or big project and in that project there are so many logs
+then how will you manage the project data flow ? 
+25. 
+
+

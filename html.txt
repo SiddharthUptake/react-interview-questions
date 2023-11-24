@@ -1,0 +1,4 @@
+HTML :
+
+1. what is DOCTYPE in html ?
+2.

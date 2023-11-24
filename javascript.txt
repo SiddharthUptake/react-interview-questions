@@ -1,0 +1,8 @@
+JAVASCRIPT :
+
+1. Difference between var , let and const 
+2. Hoisting in js ?
+3. what is spread operator ?
+4. difference between arrow function and normal function ?
+5. difference between settimeout and setinterval function ?
+6. 
